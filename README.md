@@ -22,4 +22,4 @@ I am a software engineer with years of experience in full-stack development. I a
 <br />
 <br />
 
-![GitHub stats](https://github-readme-stats-five-eta-13.vercel.app/api?username=daniellmiranda&show_icons=true&&bg_color=1d1f20&title_color=ff5252&icon_color=ff5252&text_color=f5f3f4&border_color=ff5252&border_radius=24)
+![GitHub stats](https://github-readme-stats-five-eta-13.vercel.app/api?username=daniellmiranda&show_icons=true&&bg_color=1d1f20&title_color=ff5252&icon_color=ff5252&text_color=f5f3f4&border_color=ff5252&border_radius=24&include_all_commits=true)
