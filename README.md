@@ -1,6 +1,6 @@
 # Daniel L. Miranda
 
-I am a software engineer with years of experience in full-stack development. I am a lifelong learner who enjoys software development because of the satisfaction I get from overcoming challenges and the opportunity to positively impact people's lives through code.
+I am a mid-level software engineer with years of experience in full-stack development. I am a lifelong learner who enjoys software development because of the satisfaction I get from overcoming challenges and the opportunity to positively impact people's lives through code.
 
 ### 🛠️ Languages and Tools
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
